@@ -7,7 +7,7 @@ I'm mobile app developer.👩‍💻
 
 <a href="https://tech-carrot.tistory.com/"><img src="https://img.shields.io/badge/Blog-336699?logo=Bloglovin&logoColor=white"/></a>
 <a href="https://www.instagram.com/dev_eun/"><img src="https://img.shields.io/badge/Instagram-8a3ab9?logo=Instagram&logoColor=white"/></a>
-<a href="kyungeun.dev@gmail.com"><img src="https://img.shields.io/badge/Email-4285F4?logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kyungeun.dev@gmail.com"><img src="https://img.shields.io/badge/Email-4285F4?logo=Gmail&logoColor=white"/></a>
 <br/>
 
 **💪 Skills**
