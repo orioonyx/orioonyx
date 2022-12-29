@@ -1,7 +1,7 @@
 ## 👋  Hi there! 
 
 I'm mobile app developer.👩‍💻
-<br/><br/><br/>
+<br/><br/>
 
 **🚀 Follow Me**
 
@@ -15,7 +15,7 @@ I'm mobile app developer.👩‍💻
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/iOS-000000?logo=iOS&logoColor=white&style=flat-square"/>
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Java-34567C?logo=CoffeeScript&logoColor=white&style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white&style=flat-square"/>
-<br/><br/><br/>
+<br/><br/>
 
 **🛠 Github Stats**
 
