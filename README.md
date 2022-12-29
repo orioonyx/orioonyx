@@ -1,4 +1,4 @@
-## 👋  Hi there! 
+### Hi there! <img src="https://user-images.githubusercontent.com/74607521/209920526-d7b20ddb-fcc6-4558-aef7-a6e2a6684b49.gif" width="27px">
 
 I'm mobile app developer.👩‍💻
 <br/><br/>
