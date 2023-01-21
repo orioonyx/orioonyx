@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/74607521/209920526-d7b20ddb-fcc6-4558-aef7-a6e2a6684b49.gif" width="27px">
 
-I'm mobile app developer.👩‍💻
+I'm mobile app engineer.👩‍💻
 <br/><br/>
 
 **🚀 Follow Me**
@@ -19,4 +19,4 @@ I'm mobile app developer.👩‍💻
 
 **🛠 Github Stats**
 
-![KyungEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shruddms&show_icons=true)
+![KyungEun's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shruddms&show_icons=true)
