@@ -19,4 +19,4 @@ I'm mobile app developer.👩‍💻
 
 **🛠 Github Stats**
 
-[![KyungEun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shruddms&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![KyungEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shruddms&show_icons=true)
