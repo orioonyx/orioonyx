@@ -25,4 +25,4 @@ I'm mobile app engineer.👩‍💻
 
 **🏆 GitHub Trophies**
 
-![]https://github-profile-trophy.vercel.app/?username=shruddms&theme=chalk&no-frame=false&no-bg=true&margin-w=4]
+![](https://github-profile-trophy.vercel.app/?username=shruddms&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
