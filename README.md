@@ -19,10 +19,10 @@ I'm mobile app engineer.👩‍💻
 
 **🛠 Github Stats**
 
-![KyungEun's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shruddms&show_icons=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shruddms&theme=transparent)<br/>
+![KyungEun's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=orioonyx&show_icons=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orioonyx&theme=transparent)<br/>
 
 
 **🏆 GitHub Trophies**
 
-![](https://github-profile-trophy.vercel.app/?username=shruddms&theme=chalk&no-frame=false&no-bg=true&margin-w=4&row=1&column=6)<br/>
+![](https://github-profile-trophy.vercel.app/?username=orioonyx&theme=chalk&no-frame=false&no-bg=true&margin-w=4&row=1&column=6)<br/>
