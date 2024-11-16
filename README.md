@@ -1,12 +1,13 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/74607521/209920526-d7b20ddb-fcc6-4558-aef7-a6e2a6684b49.gif" width="27px">
 
-I'm mobile app engineer.👩‍💻
-<br/><br/>
+👩‍💻 I’m a mobile app engineer who enjoys solving problems and embracing challenges.<br/>
+⭐ My goal is to create user-friendly and innovative applications.<br/>
+🌳 Let’s grow together! <br/><br/>
 
 **🚀 Follow Me**
 
-<a href="https://tech-carrot.tistory.com/"><img src="https://img.shields.io/badge/Blog-336699?logo=Bloglovin&logoColor=white"/></a>
-<a href="https://www.instagram.com/dev_eun/"><img src="https://img.shields.io/badge/Instagram-8a3ab9?logo=Instagram&logoColor=white"/></a>
+<a href="https://medium.com/@orioonyx"><img src="https://img.shields.io/badge/Medium-000000?logo=Medium&logoColor=white"/></a>
+<a href="https://tech-carrot.tistory.com"><img src="https://img.shields.io/badge/Blog-336699?logo=Bloglovin&logoColor=white"/></a>
 <a href="mailto:kyungeun.dev@gmail.com"><img src="https://img.shields.io/badge/Email-4285F4?logo=Gmail&logoColor=white"/></a>
 <br/>
 
