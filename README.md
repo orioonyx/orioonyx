@@ -23,7 +23,7 @@
 
 I’m interested in contributing to open source projects to grow as a developer and collaborate with the community.<br/>
 I have contributed to:<br/>
-- [OpenTelemetry-Android](https://github.com/open-telemetry/opentelemetry-android/pull/736)
+- [OpenTelemetry-Android](https://github.com/open-telemetry/opentelemetry-android)
 <br/><br/>
 
 **🛠 Github Stats**
