@@ -29,7 +29,6 @@ I have contributed to:<br/>
 **🛠 Github Stats**
 
 ![KyungEun's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=orioonyx&show_icons=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orioonyx&theme=transparent)<br/>
 
 
 **🏆 GitHub Trophies**
